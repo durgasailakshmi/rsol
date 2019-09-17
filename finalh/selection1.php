@@ -1,0 +1,12 @@
+<?php
+$x=$_POST["item"];
+if($x='Paper'){
+header('Location:checkdetails2.html');
+}
+if($x='Plastic'){
+header('Location:checkdetails2.html');
+}
+if($x='MetalItems'){
+header('Location:checkdetails2.html');
+}
+?>
