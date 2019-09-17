@@ -1,32 +1,7 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+R “SOL”
+(Recycling Solution)
+ABSTRACT
 
-
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+R “SOL” develops a reusability system which helps for recycling of different materials like paper, cans, batteries, plastic etc. Recycling saves energy because we don’t have to produce something new from raw natural resources. Currently there is a trend where people go home by home to collect newspapers/old papers, cardboard sheets, charts, plastic etc.
+This project acts like a bridge between the user, scrap collectors and recycling centres.  We have user models  ,scrap collector modules and recycling centres modules , based on the request, appropriate information is displayed to connect them .Apart from this our tool also include information about importance of recycling, effects of global warming and links to short videos, what are the consequences of particular recycling materials if u don’t do recycling, blogs and websites which can help users to build few items from their recycling materials. 
+The user and buyer need to sign up in order to get access to the recycling items that can be sold or purchased through this website. The user can give rating the buyer after completion of the process. In this project, we categorize the buyers by their rating and locality. Every time when the user selects the item which he wants to sell, the locality is taken from his info and the buyers are organized based on their locality and the ratings which they got from the users. 
